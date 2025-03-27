@@ -28,15 +28,13 @@ Ensure that you have the following installed on your system:
 1. **Clone the Repository**: Begin by cloning this repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/your-username/train-seat-booking-cli.git
+   git clone https://github.com/ming0520/train-seat-booking-cli.git
    ```
-
 2. **Navigate to the Project Directory**:
 
    ```bash
    cd train-seat-booking-cli
    ```
-
 3. **Install Required Packages**: Install the necessary Python packages using pip:
 
    ```bash
@@ -60,4 +58,3 @@ Upon running the application and performing various seat booking operations, you
 ![Expected Result](expected_result.png)
 
 *Figure: Sample output of the Train Seat Booking CLI application.*
-
