@@ -1,0 +1,29 @@
+Assignment – Train Ticket Booking App/Web Application 
+1.0 Description  
+An online train ticket booking app or web application is to be built. The key feature of the app is 
+the ability to lock a seat on a first come first serve basis. 
+While in booking mode with the seating plan, all subsequent bookings that is taking place should 
+be real-time displaying all users’ activities within the selected train sitting seating plan. 
+E.g. When User 1 first accessed the seating plan screen, seat A3 was vacant and as User 2 starts 
+booking on seat A3, User 1’s seating plan will show A3 as being locked and User 1 or any 
+subsequent users will not be able to book this seat. 
+
+
+FlowChart
+
+Enter Home Screen > Select Origin, Destination, Depature Date, Return Date and Number of Pax, Enter Train Info Screen > Select a Train > Select a Coach > Select a Seat > Display Selected Seat Details > Confirm Booking > Display Booking Summary > Comfirm Payment > Booking Comfirmation
+
+
+3.0 Assignments 
+You are allowed to demonstrate the application in multiple method, e.g. mobile app, web 
+application and command prompt. 
+Key points: 
+ü There are 6 coaches in a train. 
+ü Each coach has 20 seats. 
+ü 1 seat is only allowed to be selected by 1 user. 
+ü The seat should be locked if user start booking on the seat. 
+ü The seat details should include the coach number and seat number. 
+ü Users are able to reselect a seat before they confirm the booking. 
+ü Booking summary should include train details (Train Number, Departure Time, Arrival 
+Time, Total Amount) with qr code sent via email. 
+ü An application which allow the operation to manage the schedule and booking. 
